@@ -4,7 +4,7 @@ This is a simple HTML project that shows my weekly study timetable.
 I built it using a basic HTML `<table>` to organize subjects by days and time slots.  
 
 ##  Live Demo
- Check it out here: [Study Plan Schedule](https://ycrakeshreddy.github.io/study-plan-schedule/)
+ Check it out here: [Study Plan Schedule](https://saisanthoshreddy1/.github.io/study-plan-schedule/)
 
 ##  What’s Inside
 - A clean and colorful weekly timetable
